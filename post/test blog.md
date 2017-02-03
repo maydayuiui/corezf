@@ -7,7 +7,4 @@ description = "testing new page"
 title = "New Journey"
 +++
 
-testing
-12334
-123
-02032017
+Try to publish a blog.
